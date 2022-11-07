@@ -1,0 +1,99 @@
+{
+    "title": {
+        "media": {
+          "url": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
+          "caption": "Security logo. <a target=\"_blank\" href='https://www.pexels.com/photo/security-logo-60504/'>Credit.</a>"
+        },
+        "text": {
+          "headline": "A History of Secure Development",
+          "text": "<p>Not 'the' history! And (always) a work in-progress...</p>"
+        }
+    },
+    "events": [
+      {
+        "start_date": {
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Critique of Penetrate-and-patch",
+          "text": "McGraw publishes an article titled 'Testing for security during development: why we should scrap penetrate and patch'. The article argues the benefits of a proactive approach to software security, noting that attacks exploit errors in software design and implementation."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2002",
+          "month": "1"
+        },
+        "text": {
+          "headline": "Trustworthy Computing Memo",
+          "text": "Bill Gates sent the Trustworthy Computing Memo to all Microsoft Employees via email in 2002. "
+        }
+      },
+      {
+        "start_date": {
+          "year": "2002",
+          "month": "3"
+        },
+        "text": {
+          "headline": "Windows Security Push / .NET Release Delayed",
+          "text": "Following the Trustworthy Computing Memo teams within Microsoft were pulled off projects to recieve security training. A few weeks later, a .NET release was delayed to allow for a security review known as the Windows Security Push."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2002"
+        },
+        "text": {
+          "headline": "Building Secure Software",
+          "text": "Viega and McGraw published their seminal book 'Building Secure Software'. It built on McGraw's earlier critique of penetrate-and-patch approaches, and describe ways security could and should be integrated into the software development lifecycle."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2003"
+        },
+        "text": {
+          "headline": "Writing Secure Code, 2nd ed.",
+          "text": "The second edition of Writing Secure Code, by Howard and Leblanc, is published. The first edition was required reading at Microsoft during the Windows Security Push with the second edition making much of the learning that occured during the Push more widely available."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2006"
+        },
+        "text": {
+          "headline": "The Microsot Security Development Lifecycle.",
+          "text": "Microsoft make their 13-stage development process available to the wider community in a book titled 'The Security Development Lifecycle'. The process is referred to as the Microsoft Security Development Lifecycle (MSDL) and remains relevant today. The lifecycle is widely regarded as the first prescriptive secure development lifecycle."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2006"
+        },
+        "text": {
+          "headline": "Building Security In.",
+          "text": "Around the same time the 'The Security Development Lifecycle' was published, 'Building Security In' by McGraw was published. The book highlights seven software security 'touchpoints' that can be incorporated into a secure development lifecycle."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2007",
+          "month": "10"
+        },
+        "text": {
+          "headline": "SAFECode Forms",
+          "text": "Leading technology companies come together with the aim of address security concerns. The group aims to promote collaboration and help coordinate the efforts of individual technology companies. Many resources relating to secure development have been created since its inception."
+        }
+      },
+      {
+        "start_date": {
+          "year": "2008",
+          "month": "8"
+        },
+        "text": {
+          "headline": "SAMM Beta",
+          "text": "A beta version of the Software Assurance Maturity Model (SAMM) is released. It aims to help organisations implement a bespoke strategy for software security that is tailored to their specific wants and needs."
+        }
+      }
+    ]
+}
